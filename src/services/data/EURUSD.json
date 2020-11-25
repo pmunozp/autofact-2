@@ -1,0 +1,904 @@
+{
+    "symbol": "EURUSD",
+    "data": [{
+            "id": 1605857813710218500,
+            "dateTime": 18446744073256796000,
+            "bid": 1.18691,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.18691,
+                "std_dev_max": 1.18691,
+                "std_dev_min": 1.18691,
+                "dir": 0
+            }
+        },
+        {
+            "id": 1605857813855979800,
+            "dateTime": 18446744073256796000,
+            "bid": 1.1869,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.18691,
+                "std_dev_max": 1.18691,
+                "std_dev_min": 1.18691,
+                "dir": -1
+            }
+        },
+        {
+            "id": 1605857813950147300,
+            "dateTime": 18446744073256796000,
+            "bid": 1.1869,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186903,
+                "std_dev_max": 1.186906,
+                "std_dev_min": 1.1869,
+                "dir": -1
+            }
+        },
+        {
+            "id": 1605857814469736700,
+            "dateTime": 18446744073256796000,
+            "bid": 1.1869,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186901,
+                "std_dev_max": 1.186904,
+                "std_dev_min": 1.186898,
+                "dir": -1
+            }
+        },
+        {
+            "id": 1605857814692376300,
+            "dateTime": 18446744073256796000,
+            "bid": 1.1869,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.1869,
+                "std_dev_max": 1.186903,
+                "std_dev_min": 1.186897,
+                "dir": -1
+            }
+        },
+        {
+            "id": 1605857815423873500,
+            "dateTime": 18446744073256798000,
+            "bid": 1.1869,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.1869,
+                "std_dev_max": 1.186903,
+                "std_dev_min": 1.186896,
+                "dir": -1
+            }
+        },
+        {
+            "id": 1605857815874209000,
+            "dateTime": 18446744073256798000,
+            "bid": 1.18689,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186896,
+                "std_dev_max": 1.186899,
+                "std_dev_min": 1.186892,
+                "dir": -1
+            }
+        },
+        {
+            "id": 1605857816228030200,
+            "dateTime": 18446744073256798000,
+            "bid": 1.1869,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186896,
+                "std_dev_max": 1.1869,
+                "std_dev_min": 1.186892,
+                "dir": -1
+            }
+        },
+        {
+            "id": 1605857816382254800,
+            "dateTime": 18446744073256798000,
+            "bid": 1.18691,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.1869,
+                "std_dev_max": 1.186906,
+                "std_dev_min": 1.186894,
+                "dir": -1
+            }
+        },
+        {
+            "id": 1605857816716480500,
+            "dateTime": 18446744073256798000,
+            "bid": 1.18691,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186903,
+                "std_dev_max": 1.186909,
+                "std_dev_min": 1.186897,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857816997630500,
+            "dateTime": 18446744073256798000,
+            "bid": 1.1869,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186902,
+                "std_dev_max": 1.186908,
+                "std_dev_min": 1.186896,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857819533054500,
+            "dateTime": 18446744073256802000,
+            "bid": 1.18691,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186904,
+                "std_dev_max": 1.18691,
+                "std_dev_min": 1.186898,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857820012256800,
+            "dateTime": 18446744073256802000,
+            "bid": 1.18691,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186906,
+                "std_dev_max": 1.186912,
+                "std_dev_min": 1.1869,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857820384856800,
+            "dateTime": 18446744073256802000,
+            "bid": 1.18693,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186912,
+                "std_dev_max": 1.18692,
+                "std_dev_min": 1.186904,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857820676210400,
+            "dateTime": 18446744073256802000,
+            "bid": 1.18693,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186916,
+                "std_dev_max": 1.186925,
+                "std_dev_min": 1.186908,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857820764882200,
+            "dateTime": 18446744073256802000,
+            "bid": 1.18693,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186922,
+                "std_dev_max": 1.186931,
+                "std_dev_min": 1.186912,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857821026784000,
+            "dateTime": 18446744073256802000,
+            "bid": 1.18693,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186926,
+                "std_dev_max": 1.186933,
+                "std_dev_min": 1.186918,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857821502761700,
+            "dateTime": 18446744073256804000,
+            "bid": 1.18694,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186931,
+                "std_dev_max": 1.186939,
+                "std_dev_min": 1.186924,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857821569423600,
+            "dateTime": 18446744073256804000,
+            "bid": 1.18692,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186931,
+                "std_dev_max": 1.186939,
+                "std_dev_min": 1.186923,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857821789261800,
+            "dateTime": 18446744073256804000,
+            "bid": 1.18691,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186929,
+                "std_dev_max": 1.186939,
+                "std_dev_min": 1.186919,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857822039307500,
+            "dateTime": 18446744073256804000,
+            "bid": 1.18693,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186931,
+                "std_dev_max": 1.186941,
+                "std_dev_min": 1.186921,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857823141858600,
+            "dateTime": 18446744073256804000,
+            "bid": 1.18693,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186931,
+                "std_dev_max": 1.186941,
+                "std_dev_min": 1.186921,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857824548981000,
+            "dateTime": 18446744073256806000,
+            "bid": 1.18694,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186933,
+                "std_dev_max": 1.186943,
+                "std_dev_min": 1.186924,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857824692947200,
+            "dateTime": 18446744073256806000,
+            "bid": 1.18694,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186936,
+                "std_dev_max": 1.186945,
+                "std_dev_min": 1.186927,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857825590281000,
+            "dateTime": 18446744073256808000,
+            "bid": 1.18694,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186938,
+                "std_dev_max": 1.186947,
+                "std_dev_min": 1.186929,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857828257513500,
+            "dateTime": 18446744073256810000,
+            "bid": 1.18696,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186943,
+                "std_dev_max": 1.186953,
+                "std_dev_min": 1.186932,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857828627951600,
+            "dateTime": 18446744073256810000,
+            "bid": 1.18697,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186949,
+                "std_dev_max": 1.18696,
+                "std_dev_min": 1.186938,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857828803912000,
+            "dateTime": 18446744073256810000,
+            "bid": 1.18699,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186959,
+                "std_dev_max": 1.186973,
+                "std_dev_min": 1.186945,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857828914244900,
+            "dateTime": 18446744073256810000,
+            "bid": 1.18702,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.186975,
+                "std_dev_max": 1.186995,
+                "std_dev_min": 1.186956,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857829111635200,
+            "dateTime": 18446744073256810000,
+            "bid": 1.18702,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.18699,
+                "std_dev_max": 1.18701,
+                "std_dev_min": 1.18697,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857829408658200,
+            "dateTime": 18446744073256813000,
+            "bid": 1.18703,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187005,
+                "std_dev_max": 1.187025,
+                "std_dev_min": 1.186985,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857830802245600,
+            "dateTime": 18446744073256813000,
+            "bid": 1.18703,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187017,
+                "std_dev_max": 1.187036,
+                "std_dev_min": 1.186999,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857833796777700,
+            "dateTime": 18446744073256817000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187031,
+                "std_dev_max": 1.187048,
+                "std_dev_min": 1.187014,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857834497691600,
+            "dateTime": 18446744073256817000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187041,
+                "std_dev_max": 1.187053,
+                "std_dev_min": 1.187029,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857840424383500,
+            "dateTime": 18446744073256823000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187047,
+                "std_dev_max": 1.187058,
+                "std_dev_min": 1.187035,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857840716303600,
+            "dateTime": 18446744073256823000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187052,
+                "std_dev_max": 1.187065,
+                "std_dev_min": 1.187039,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857841370009300,
+            "dateTime": 18446744073256825000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187055,
+                "std_dev_max": 1.187069,
+                "std_dev_min": 1.18704,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857841540322600,
+            "dateTime": 18446744073256825000,
+            "bid": 1.18703,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187054,
+                "std_dev_max": 1.187071,
+                "std_dev_min": 1.187036,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857841759789600,
+            "dateTime": 18446744073256825000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187053,
+                "std_dev_max": 1.187072,
+                "std_dev_min": 1.187034,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857843077296600,
+            "dateTime": 18446744073256825000,
+            "bid": 1.18703,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187049,
+                "std_dev_max": 1.187069,
+                "std_dev_min": 1.187028,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857843243794400,
+            "dateTime": 18446744073256827000,
+            "bid": 1.18703,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187044,
+                "std_dev_max": 1.187063,
+                "std_dev_min": 1.187025,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857843537950500,
+            "dateTime": 18446744073256827000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187041,
+                "std_dev_max": 1.187058,
+                "std_dev_min": 1.187025,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857844912408800,
+            "dateTime": 18446744073256827000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187039,
+                "std_dev_max": 1.187051,
+                "std_dev_min": 1.187027,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857845052315400,
+            "dateTime": 18446744073256827000,
+            "bid": 1.18706,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187043,
+                "std_dev_max": 1.187051,
+                "std_dev_min": 1.187036,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857845723127800,
+            "dateTime": 18446744073256829000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187042,
+                "std_dev_max": 1.18705,
+                "std_dev_min": 1.187035,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857845812175400,
+            "dateTime": 18446744073256829000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187042,
+                "std_dev_max": 1.187049,
+                "std_dev_min": 1.187035,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857846846965800,
+            "dateTime": 18446744073256829000,
+            "bid": 1.18706,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187046,
+                "std_dev_max": 1.187054,
+                "std_dev_min": 1.187037,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857847391838200,
+            "dateTime": 18446744073256829000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187045,
+                "std_dev_max": 1.187054,
+                "std_dev_min": 1.187037,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857847519098400,
+            "dateTime": 18446744073256829000,
+            "bid": 1.18702,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187041,
+                "std_dev_max": 1.187051,
+                "std_dev_min": 1.187031,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857847528739800,
+            "dateTime": 18446744073256829000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187041,
+                "std_dev_max": 1.187051,
+                "std_dev_min": 1.187031,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857847599140600,
+            "dateTime": 18446744073256829000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187041,
+                "std_dev_max": 1.187052,
+                "std_dev_min": 1.187031,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857847842534100,
+            "dateTime": 18446744073256829000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187041,
+                "std_dev_max": 1.187052,
+                "std_dev_min": 1.187031,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857848174676500,
+            "dateTime": 18446744073256830000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187041,
+                "std_dev_max": 1.187051,
+                "std_dev_min": 1.18703,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857848426162400,
+            "dateTime": 18446744073256830000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187041,
+                "std_dev_max": 1.187051,
+                "std_dev_min": 1.187031,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857849308915500,
+            "dateTime": 18446744073256830000,
+            "bid": 1.18706,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187044,
+                "std_dev_max": 1.187055,
+                "std_dev_min": 1.187033,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857849463239400,
+            "dateTime": 18446744073256830000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187042,
+                "std_dev_max": 1.187053,
+                "std_dev_min": 1.187031,
+                "dir": -1
+            }
+        },
+        {
+            "id": 1605857852032025600,
+            "dateTime": 18446744073256833000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187041,
+                "std_dev_max": 1.187052,
+                "std_dev_min": 1.187031,
+                "dir": -1
+            }
+        },
+        {
+            "id": 1605857852140202000,
+            "dateTime": 18446744073256833000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187041,
+                "std_dev_max": 1.187051,
+                "std_dev_min": 1.18703,
+                "dir": -1
+            }
+        },
+        {
+            "id": 1605857852286432000,
+            "dateTime": 18446744073256835000,
+            "bid": 1.18703,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.18704,
+                "std_dev_max": 1.18705,
+                "std_dev_min": 1.187029,
+                "dir": -1
+            }
+        },
+        {
+            "id": 1605857853290067700,
+            "dateTime": 18446744073256835000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187039,
+                "std_dev_max": 1.187049,
+                "std_dev_min": 1.18703,
+                "dir": -1
+            }
+        },
+        {
+            "id": 1605857853402360800,
+            "dateTime": 18446744073256835000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187039,
+                "std_dev_max": 1.187049,
+                "std_dev_min": 1.18703,
+                "dir": -1
+            }
+        },
+        {
+            "id": 1605857858245717500,
+            "dateTime": 18446744073256841000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187041,
+                "std_dev_max": 1.187051,
+                "std_dev_min": 1.187031,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857861503471900,
+            "dateTime": 18446744073256843000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187041,
+                "std_dev_max": 1.187049,
+                "std_dev_min": 1.187033,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857863207796200,
+            "dateTime": 18446744073256845000,
+            "bid": 1.18706,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187044,
+                "std_dev_max": 1.187053,
+                "std_dev_min": 1.187034,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857864969693700,
+            "dateTime": 18446744073256847000,
+            "bid": 1.18706,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187047,
+                "std_dev_max": 1.187056,
+                "std_dev_min": 1.187039,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857865028478000,
+            "dateTime": 18446744073256847000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187046,
+                "std_dev_max": 1.187055,
+                "std_dev_min": 1.187038,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857867629359600,
+            "dateTime": 18446744073256850000,
+            "bid": 1.18707,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187052,
+                "std_dev_max": 1.187062,
+                "std_dev_min": 1.187042,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857868293724200,
+            "dateTime": 18446744073256851000,
+            "bid": 1.18706,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187054,
+                "std_dev_max": 1.187065,
+                "std_dev_min": 1.187044,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857868598144000,
+            "dateTime": 18446744073256851000,
+            "bid": 1.18707,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187059,
+                "std_dev_max": 1.187069,
+                "std_dev_min": 1.187048,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857869151586800,
+            "dateTime": 18446744073256851000,
+            "bid": 1.18707,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187065,
+                "std_dev_max": 1.187076,
+                "std_dev_min": 1.187053,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857869326605000,
+            "dateTime": 18446744073256851000,
+            "bid": 1.18706,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187066,
+                "std_dev_max": 1.187074,
+                "std_dev_min": 1.187057,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857870286520300,
+            "dateTime": 18446744073256854000,
+            "bid": 1.18706,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187067,
+                "std_dev_max": 1.187075,
+                "std_dev_min": 1.187058,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857870465451500,
+            "dateTime": 18446744073256854000,
+            "bid": 1.18704,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187063,
+                "std_dev_max": 1.187074,
+                "std_dev_min": 1.187052,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857872326176000,
+            "dateTime": 18446744073256856000,
+            "bid": 1.18707,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187065,
+                "std_dev_max": 1.187076,
+                "std_dev_min": 1.187053,
+                "dir": 1
+            }
+        },
+        {
+            "id": 1605857872719696600,
+            "dateTime": 18446744073256856000,
+            "bid": 1.18705,
+            "PERIODO": 15,
+            "trend": {
+                "current_value": 1.187062,
+                "std_dev_max": 1.187074,
+                "std_dev_min": 1.18705,
+                "dir": 1
+            }
+        }
+    ]
+}
